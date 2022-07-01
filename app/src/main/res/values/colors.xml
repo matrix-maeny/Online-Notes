@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="status_bar_color">#0A0A0A</color>
+    <color name="toolbar_color">#293243</color>
+    <color name="main_color">#0C1119</color>
+    <color name="hint_color">#B3B3B3</color>
+    <color name="notes_editor_bg">#10171B</color>
+    <color name="notes_model_bg">#1A212C</color>
+
+    <color name="sign_up_btn_start_color">#5E4DBA</color>
+    <color name="sign_up_btn_end_color">#974EC2</color>
+    <color name="sign_up_bg_start">#5778A3</color>
+    <color name="sign_up_bg_end">#283245</color>
+    <color name="hint_color2">#616161</color>
+</resources>

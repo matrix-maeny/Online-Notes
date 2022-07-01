@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Online Notes</string>
+    <string name="about_">About</string>
+    <string name="log_out">Log out</string>
+    <string name="enter_heading">Enter heading...!</string>
+    <string name="enter_content">Enter content...!</string>
+    <string name="heading">Heading</string>
+    <string name="new_note">New note</string>
+    <string name="save">Save</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThe app \'Online Notes\' is a simple app that enables you to store your note content in online storage.\n\n\nSerial no: 39\nDate of creation: 4 June 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>

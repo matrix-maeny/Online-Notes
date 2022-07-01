@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34989777225",
+    "project_id": "online-notes-5d9e8",
+    "storage_bucket": "online-notes-5d9e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34989777225:android:9f47101a3c44563585fa98",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.onlinenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34989777225-rmjfbpmtntb0ob5r0br0gh8hj3omis7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLiPpquPbI9FEFyX4WxPPIz7qy0o5NrI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34989777225-rmjfbpmtntb0ob5r0br0gh8hj3omis7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

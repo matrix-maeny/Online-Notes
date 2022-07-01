@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:startColor="@color/sign_up_btn_start_color"
+        android:endColor="@color/sign_up_btn_end_color"/>
+
+    <corners
+        android:radius="10dp"/>
+</shape>
